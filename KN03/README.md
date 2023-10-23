@@ -45,24 +45,24 @@ packages: # installs the packages listed below
   - wget 
 ```
 
-### Instance-list screenshot:
+### Key used:
 <picture>
-  <img src="">
+  <img src="./Screenshots/B/used_key.png">
 </picture>
 
 ### Resault of using the ***first*** SSH-Key:
 <picture>
-  <img src="">
+  <img src="./Screenshots/B/key-1.png">
 </picture>
 
 ### Resault of using the ***second*** SSH-Key:
 <picture>
-  <img src="">
+  <img src="./Screenshots/B/key-2.png">
 </picture>
 
 ### Excerpt from the cloud-init log:
 <picture>
-  <img src="">
+  <img src="./Screenshots/B/log.png">
 </picture>
 
 ## C) Template:
@@ -136,5 +136,5 @@ runcmd:
 
 ### Connection with the admin user:
 <picture>
-  <img src="">
+  <img src="./Screenshots/D/admin_connection.png">
 </picture>
