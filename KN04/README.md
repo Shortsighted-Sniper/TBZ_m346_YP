@@ -84,7 +84,7 @@ runcmd:
 
 #### 1. Hot Storage:
 
-Hot storage is data that is accessed frequently. This could be data that is being actively used by employees or customers. It needs to be stored on fast storage so that it can be accessed quickly. Is useally has little 
+Hot storage is data that is accessed frequently. This could be data that is being actively used by employees or customers. It needs to be stored on fast storage so that it can be accessed quickly. Is useally has little storage space because it is expensive, so it is usually not persistent.
 
 #### 2. Warm Storage:
 
