@@ -16,7 +16,7 @@
 
 ### New Cloud-init of the Web-instance:
 
-```
+```yaml
 #cloud-config
 users: 
   - name: ubuntu 
