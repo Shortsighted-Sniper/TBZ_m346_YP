@@ -1,4 +1,4 @@
-#cloud-config # Comment
+#cloud-config
 users: # Keyword to configure a user
   - name: ubuntu # Name of the user
     sudo: ALL=(ALL) NOPASSWD:ALL # gives the user right to use sudo commands without inputing the password
